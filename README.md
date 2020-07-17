@@ -9,3 +9,7 @@ Para que a conexão com o banco de dados funcione é preciso renomear o arquivo 
 Após a configuração do banco de dados é preciso clonar este repositório ( https://github.com/DayanePM/burguer.git ) na pasta do servidor interno
 
 Para ter acesso ao aplicativo em servidor local, acesse pelo navegador: http://localhost/burguer/
+
+## Nova Funcionalidade
+
+A suguestão para a nova funcionalidade é a possíbilidade de fazer comentários e avaliar a hamburgueria.
