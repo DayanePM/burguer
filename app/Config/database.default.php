@@ -84,7 +84,7 @@ class DATABASE_CONFIG {
 		'login' => 'root',
 		'password' => '',
 		'database' => 'burguer',
-		'prefix' => '',
+		'prefix' => 'test_',
 		'encoding' => 'utf8',
 	);
 }
