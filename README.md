@@ -13,3 +13,11 @@ Para ter acesso ao aplicativo em servidor local, acesse pelo navegador: http://l
 ## Nova Funcionalidade
 
 A suguestão para a nova funcionalidade é a possíbilidade de fazer comentários e avaliar a hamburgueria.
+
+
+## Utilização
+
+Para acessar as funcionalidades do gerente use o logi: 
+Email: d@d.com.br e senha: 1234
+
+Para usar as funcionalidades do cliente cadastre um novo cliente.
